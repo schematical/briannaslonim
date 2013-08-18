@@ -1,0 +1,12 @@
+/* CSS Document */
+
+.sf-menu ul.sub-menu {
+	border-bottom: none;	
+}
+
+.sf-menu li li a, .sf-menu li li a:visited, .sf-menu li li li a, .sf-menu li li li a:visited {
+	border-style:solid;	
+}
+.isotope-hidden {
+	display:none;
+}

@@ -1,0 +1,23 @@
+/* CSS Document */
+
+.sf-menu ul.sub-menu {
+	border-bottom: none;
+	line-height:18px;
+}
+.sf-menu ul.sub-menu li {
+	float:left;	
+}
+.sf-menu li li a, .sf-menu li li a:visited, .sf-menu li li li a, .sf-menu li li li a:visited {
+	border-style:solid;	
+	line-height:18px;
+	min-width:1px; 
+	position:relative;
+	border-top:none;
+	border-top-width:0;
+}
+.center.section .bxslider {
+	text-align:left;	
+}
+li.recentcomments {
+	position:static;	
+}

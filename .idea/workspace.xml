@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" name="Default" comment="" />
+    <ignored path="briannaslonim.com.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../FFS/ctl/org/fullScreen.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376153887172" ignored="false" />
+    <file path="/fullScreen.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376153887172" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/FFSRewriteHandeler.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376235756757" ignored="false" />
+    <file path="/FFSRewriteHandeler.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376235743713" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/_enum.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376154202033" ignored="false" />
+    <file path="/_enum.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376154201459" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/FFSForm.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376160015753" ignored="false" />
+    <file path="/FFSForm.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376160000946" ignored="false" />
+    <file path="$PROJECT_DIR$/../MLCPackages/mlc_packages/private_packages/MJaxWAdminTheme/_core/view/_footer.tpl.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376159526992" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/view/www/_panels/FFSProfitStatPanel.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376159740261" ignored="false" />
+    <file path="/FFSProfitStatPanel.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376159717970" ignored="false" />
+    <file path="$PROJECT_DIR$/../MLCPackages/mlc_packages/MLCAuth/2.0/_core/MLCAuthDriver.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376160033797" ignored="false" />
+    <file path="/MLCAuthDriver.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376160033059" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/ctl/index.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226375039" ignored="false" />
+    <file path="/index.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226347407" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/ctl/landing.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251932458" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/view/www/_panels/FFSPTFImportPanel.tpl.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376160406094" ignored="false" />
+    <file path="/FFSPTFImportPanel.tpl.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376160406094" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/ctl/_panels/FFSPTFImportPanel.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250763571" ignored="false" />
+    <file path="/FFSPTFImportPanel.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250745627" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/proscore/Proscore.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250525597" ignored="false" />
+    <file path="/Proscore.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250518160" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/env.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251690337" ignored="false" />
+    <file path="$PROJECT_DIR$/../MLCOfficial/mde_codebase/apps/ffs/env.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250991689" ignored="false" />
+    <file path="/a.dummy" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226046565" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthUserSettingTypeCd_tpcd.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthAccountTypeCd_tpcd.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_MLCLocation.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthUserTypeCd_tpcd.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthAccount.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_MLCBatch.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_TrackingEvent.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_StripeData.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthSession.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_MLCNotification.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthUserSetting.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthRoll.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="$USER_HOME$/dumps/local.util.8.11.13/util_AuthUser.sql" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376226055528" ignored="false" />
+    <file path="/landing.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251931964" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/FFSApplication.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250493244" ignored="false" />
+    <file path="/FFSApplication.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250492868" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/app.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251690337" ignored="false" />
+    <file path="/app.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251688571" ignored="false" />
+    <file path="/Dummy.txt" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376264553211" ignored="false" />
+    <file path="$PROJECT_DIR$/../MLCOfficial/mde_codebase/apps/ffs/app.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376250991689" ignored="false" />
+    <file path="$PROJECT_DIR$/../MLCOfficial/mde_codebase/_mlc/mtpl/ctl/ControlEditPanelBase.xtpl" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376256078242" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/data_classes/base_classes/EnrollmentBase.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251471902" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/data_classes/base_classes/OrgBase.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251471902" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/data_classes/base_classes/ResultBase.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251471902" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/ctl_classes/base_classes/CompetitionEditPanelBase.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376256089692" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/data_classes/base_classes/CompetitionBase.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376256089692" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/data_classes/base_classes/AtheleteBase.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251471902" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/data_classes/base_classes/SessionBase.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251471902" ignored="false" />
+    <file path="/ControlEditPanelBase.xtpl" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376256024244" ignored="false" />
+    <file path="/env.inc.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376251665403" ignored="false" />
+    <file path="$PROJECT_DIR$/../FFS/model/ctl_classes/CompetitionEditPanel.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376256265438" ignored="false" />
+    <file path="/CompetitionEditPanel.class.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376256264429" ignored="false" />
+    <file path="$PROJECT_DIR$/theme/functions/drag-drop-order.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376422905100" ignored="false" />
+    <file path="$PROJECT_DIR$/theme/functions/templates/sections.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376422905100" ignored="false" />
+    <file path="$PROJECT_DIR$/theme/admin/options-framework.php" changelist="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" time="1376422905100" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="briannaslonim.com" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="764" />
+    <option name="width" value="1303" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="briannaslonim.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="briannaslonim.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="briannaslonim.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FFS" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="0006cbc4-674f-49eb-8284-1b7b8ecf3251">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="6f5de561-2676-4941-bded-f836a4168cf5">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="96385dab-723c-4634-b536-03b1258ac43e">
+        <serverdata>
+          <mappings>
+            <mapping deploy="$PROJECT_DIR$" local="$PROJECT_DIR$" web="briannaslonim.com" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="c1204382-768c-4a07-abb0-de17d5c20f0e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes" />
+      <recent name="$PROJECT_DIR$/theme" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe6d4c4f-b333-4ad3-949e-4da9b4f7c0b5" name="Default" comment="" />
+      <created>1376150507782</created>
+      <updated>1376150507782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="764" width="1303" height="773" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854864" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25737053" sideWeight="0.67145133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+

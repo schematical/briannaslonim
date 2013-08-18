@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+#edit-slug-box, #wp-admin-bar-view, .updated a {
+	display:none !important;	
+}
+.edit-page-slide #postdivrich {
+	display:none !important;	
+}
